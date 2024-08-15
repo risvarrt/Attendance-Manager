@@ -18,7 +18,7 @@ This repository contains the refactored code of my web application, originally b
 
 ## **Description of the Architecture**
 
-![Arch](assets/1.png)
+![Arch](assets/2.png)
 
 The architecture of this application is designed to be comprehensive and scalable, leveraging various AWS services to ensure optimal performance, security, and high availability.
 
